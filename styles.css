@@ -1,0 +1,115 @@
+
+body {
+    font-family: "Barlow Condensed", sans-serif;
+    color: #242424;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+    font-size: 1.4rem;
+    /* padding-top: 10rem; */
+}
+.navbar-toggler{
+    background-color: whitesmoke !important;
+}
+.navbar-nav{
+    color: white;
+}
+span{
+    color: white;
+}
+
+.img-profile {
+    max-width: 5rem;
+    max-height: 5rem;
+    border: 0.2rem solid #1873cde0;
+    border-radius: 100%;
+    /* margin-left: 3rem;    */
+}
+
+
+.resume-section {
+    padding-top: 3rem !important;
+    /* margin-top: 12rem; */
+    /* background-color: rgb(173, 221, 205); */
+}
+
+h1,
+.mobile-name {
+    font-family: "Just Another Hand", cursive;
+    font-size: 7.5rem;
+    letter-spacing: 0.1rem;
+}
+
+h2,
+h4,
+h5,
+h6{
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+}
+
+
+.contact-form {
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-group {
+    width: 50%;
+    padding-left: 0;
+}
+
+.btn {
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    color: white;
+    width: 50%;
+    border: none;
+}
+
+.btn {
+background-color: #1873cde0;
+}
+
+
+.card{
+    border: none;
+}
+a{
+    color: #1873cde0;
+}
+
+
+.img{
+    height: 300px;
+    border-radius: 15%;
+}
+
+.unordlist{
+    list-style: none;
+    background-color: aqua;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.heading{
+    color:rgb(245, 142, 7);
+    /* text-decoration:underline; */
+    font-weight: bold;
+}
+
+.card-title{
+    color:rgb(246, 106, 55);
+}
+
+.hrtag{
+    width:50%;
+    text-align:center;
+}
+
+.cricketimg{
+    height: 30px;
+}
+
